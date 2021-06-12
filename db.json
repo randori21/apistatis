@@ -1,0 +1,83 @@
+{"anggota":
+[{
+  "id": 1,
+  "negara": "Indonesia",
+  "kode": "ID"
+}, {
+  "id": 2,
+  "negara": "Belarus",
+  "kode": "BY"
+}, {
+  "id": 3,
+  "negara": "South Africa",
+  "kode": "ZA"
+}, {
+  "id": 4,
+  "negara": "Thailand",
+  "kode": "TH"
+}, {
+  "id": 5,
+  "negara": "Nepal",
+  "kode": "NP"
+}, {
+  "id": 6,
+  "negara": "Brazil",
+  "kode": "BR"
+}, {
+  "id": 7,
+  "negara": "China",
+  "kode": "CN"
+}, {
+  "id": 8,
+  "negara": "France",
+  "kode": "FR"
+}, {
+  "id": 9,
+  "negara": "Philippines",
+  "kode": "PH"
+}, {
+  "id": 10,
+  "negara": "Russia",
+  "kode": "RU"
+}, {
+  "id": 11,
+  "negara": "China",
+  "kode": "CN"
+}, {
+  "id": 12,
+  "negara": "Philippines",
+  "kode": "PH"
+}, {
+  "id": 13,
+  "negara": "Nauru",
+  "kode": "NR"
+}, {
+  "id": 14,
+  "negara": "Portugal",
+  "kode": "PT"
+}, {
+  "id": 15,
+  "negara": "Indonesia",
+  "kode": "ID"
+}, {
+  "id": 16,
+  "negara": "China",
+  "kode": "CN"
+}, {
+  "id": 17,
+  "negara": "Finland",
+  "kode": "FI"
+}, {
+  "id": 18,
+  "negara": "Venezuela",
+  "kode": "VE"
+}, {
+  "id": 19,
+  "negara": "Japan",
+  "kode": "JP"
+}, {
+  "id": 20,
+  "negara": "Albania",
+  "kode": "AL"
+}]
+}
