@@ -1,4 +1,4 @@
-PHP
+API Statis
 ===
 
-This repository for create CMS using CodeIgniter HMVC plus tank auth and GroceryCRUD.
+This repository for create API using country name.
